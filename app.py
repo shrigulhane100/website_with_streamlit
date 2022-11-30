@@ -13,8 +13,6 @@ def user_input():
  
     st.button('Subtract')
     st.write("Subtraction of number is :", numnber_1 - numnber_2)
-    time.sleep(2)
-    st.success('Excellent')
-    st.stop()
+
     
 user_input()
