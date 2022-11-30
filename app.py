@@ -14,6 +14,7 @@ def user_input():
     else: 
         st.button('Subtract')
         st.write("Subtraction of number is :", numnber_1 - numnber_2)
+        time.sleep(2)
         st.success('Excellent')
 
 user_input()
