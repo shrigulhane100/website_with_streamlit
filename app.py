@@ -12,7 +12,7 @@ def user_input():
     if numnber_1<=0 or numnber_2<=0:
         st.error('Enter number above 0')
     else: 
-        st.button('Subtract'):
+        st.button('Subtract')
         st.write("Subtraction of number is :", numnber_1 - numnber_2)
         st.success('Excellent')
 
