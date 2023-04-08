@@ -8,3 +8,7 @@ This system provides a great way to screen potential customers and manage risks.
 
 # Objective:
 Build a machine learning model to predict whether an applicant is "Approved" or "Declined".
+
+Input parameters include information such as the user's gender, whether they own a car or real estate, their income, education level, and family status.
+
+After collecting the user's input, the code preprocesses the data by converting binary categorical features to numeric values and using a saved encoder to transform categorical features to numerical values. 
