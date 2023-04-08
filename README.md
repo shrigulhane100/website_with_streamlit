@@ -1,4 +1,4 @@
-# website_with_streamlit
+# Credit Card Approval Prediction App with streamlit
 
 Building a machine learning model to accurately predict whether or not an applicant will be approved or declined is becoming increasingly important in the financial and banking industries. This model can help banks save time and money by reducing the amount of manual labor needed to review applications. It can also provide insights into applicants' creditworthiness and help banks make more informed decisions when approving or denying loans. 
 With this model, banks can make better-informed decisions, improve their customer service, and ensure they are making sound investments.
