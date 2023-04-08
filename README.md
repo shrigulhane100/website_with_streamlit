@@ -6,7 +6,7 @@ With this model, banks can make better-informed decisions, improve their custome
 Credit score cards are a key element of risk management in the financial sector. They use data provided by applicants to estimate their likelihood of defaulting on credit card payments and borrowing money in the future. 
 This system provides a great way to screen potential customers and manage risks. Banks can use credit scores to objectively assess the level of risk involved when considering whether to approve a credit card for an applicant. This makes it easier for them to make an informed decision.
 
-
+![https://github.com/shrigulhane100/website_with_streamlit/blob/main/Credit%20Card%20Approval%20Prediction%20App.jpg]
 
 # Objective:
 Build a machine learning model to predict whether an applicant is "Approved" or "Declined".
